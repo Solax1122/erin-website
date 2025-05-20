@@ -1,0 +1,38 @@
+body{
+    background-color:rgb(0, 0, 0);
+}
+
+h1{
+    color:rgb(255, 0, 0);
+}
+
+p{
+    color:rgb(255, 0, 0);
+}
+
+a{
+    color:rgb(255, 0, 0);
+}
+#-Aura{
+    background-color: rgb(255, 0, 0);
+    color: black;
+}
+#wiederholen{
+    background-color: aqua;
+    color: rgb(255, 149, 42);
+}
+
+#PAura{
+    background-color: rgb(0, 255, 38);
+    color: black;
+}
+.ouNo{
+    color: brown;
+    font-style: oblique;
+}
+
+.beschreibung{
+    color: rgb(147, 56, 56);
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

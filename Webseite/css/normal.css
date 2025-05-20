@@ -1,0 +1,33 @@
+body{
+    background-color:rgb(135, 135, 135);
+}
+
+h1{
+    color:rgb(0, 0, 0);
+    background-color: rgb(116, 116, 116);
+}
+
+p{
+    color:rgb(0, 0, 0)
+}
+a{
+    color:rgb(0, 0, 0)
+}
+#infAura{
+    background-color: rgb(255, 0, 0);
+    color: black;
+}
+#anweisung{
+    background-color:rgb(76, 76, 76) ;
+    color: rgb(255, 0, 0);
+    
+}
+.ausgangtext{
+    color: rgb(0, 255, 38);
+    font-style: oblique;
+}
+.Erklärung{
+    color: brown;
+    font-family: sans-serif;
+    height: 10px;
+}

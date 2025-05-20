@@ -1,0 +1,35 @@
+body{
+    background-color: burlywood;
+}
+
+h1{
+    color:aqua;
+    background-color: rgb(220, 130, 20);
+    font-family: fantasy;
+
+}
+
+p{
+    color:aqua
+}
+a{
+    color:aqua
+}
+#Aura{
+    background-color: rgb(0, 212, 32);
+    color: black;
+    font-size: x-large;
+}
+#NAura{
+    background-color: rgb(255, 0, 0);
+    color: black;
+}
+.class1{
+    font-family: monospace;
+    font-weight: bold;
+    font-style: italic;
+}
+.beschreibung{
+    color: rgb(3, 71, 71);
+    font-family: fantasy;
+}
